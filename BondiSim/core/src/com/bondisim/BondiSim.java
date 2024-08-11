@@ -3,9 +3,14 @@ package com.bondisim;
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
+<<<<<<< HEAD
+import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.bondisim.pantallas.*;
+=======
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.bondisim.pantallas.PantallaMenu;
+>>>>>>> branch 'main' of file:///C:\Users\gabi\git\BondiSim
 import com.bondisim.utiles.Render;
 
 public class BondiSim extends Game {
