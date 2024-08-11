@@ -18,6 +18,7 @@ public class Recursos {
 	public static final String FOTO_62 = "colectivos/0_62_2.jpg";
 	public static final String FOTO_68 = "colectivos/68.jpg";
 	
+<<<<<<< HEAD
 	// Musica
 	public static final String[][] SOUNDTRACK = {
 			{"¿Qué Ves? - Divididos", "musica/Divididos-¿Que_Ves_.mp3"},
@@ -95,4 +96,44 @@ public class Recursos {
 			"Línea 158"
 			};
 	
+=======
+	// Fuentes
+	public static final String FUENTE_MINECRAFT = "fuentes/Minecraft.ttf";
+	public static final String FUENTE_MINECRAFTIA = "fuentes/Minecraftia_Regular.ttf";
+	public static final String FUENTE_RETRO_GAMING = "fuentes/Retro_Gaming.ttf";
+	public static final String FUENTE_UPHEAVTT = "fuentes/upheavtt.ttf";
+	public static final String FUENTE_ARIAL = "fuentes/arial.ttf";
+	public static final String FUENTE_DIGITAL = "fuentes/digital-7.ttf";
+	
+	// Sprites
+	public static final String SP_34_BIMET = "vehiculos/usuario/L34Bimet/L34_Bimet_Arriba.png";
+	public static final String VELOCIMETRO = "vehiculos/usuario/L34Bimet/Velocimetro.png";
+	
+	// Lineas
+	public static final String[] LINEAS = {
+			"Línea 34",
+			"Línea 39",
+			"Línea 61",
+			"Línea 62",
+			"Línea 68",
+			"Línea 102"
+			};
+
+	// QUIZAS
+	public static final String[] LINEAS_POSIBLES = {
+			"Línea 12",
+			"Línea 23",
+			"Línea 26",
+			"Línea 99",
+			"Línea 103 (Ramal D)",
+			"Línea 106",
+			"Línea 107",
+			"Línea 108",
+			"Línea 109",
+			"Línea 124",
+			"Línea 135",
+			"Línea 158"
+			};
+
+>>>>>>> branch 'main' of file:///C:\Users\gabi\git\BondiSim
 }
